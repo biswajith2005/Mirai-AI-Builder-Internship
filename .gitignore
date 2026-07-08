@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.streamlit/
+.env
+.vscode/settings.json
+.env
